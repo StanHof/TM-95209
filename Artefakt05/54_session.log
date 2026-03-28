@@ -1,0 +1,6 @@
+[2026-03-28 14:36:21] === INICJALIZACJA APPIUM SESSION MANAGER ===
+[2026-03-28 14:36:21] Załadowano Capabilities dla: io.appium.android.apis
+[2026-03-28 14:36:21] Obiekt AppiumOptions został skonfigurowany.
+[2026-03-28 14:36:21] Mapa selektorów aktywna: 459 elementów.
+[2026-03-28 14:36:21] STATUS: READY TO CONNECT
+[2026-03-28 14:36:21] Endpoint: http://localhost:4723

@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<testsuite name="ConsistencyTestSuite" tests="2"><testcase name="Weryfikacja identyfikatora pakietu" /><testcase name="Weryfikacja obecności kluczowych selektorów" /></testsuite>
