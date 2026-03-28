@@ -1,0 +1,4 @@
+PROJEKT SELEKTORA:
+ID: customPanel
+TAG: FrameLayout
+STATUS: ZALICZONE
