@@ -1,0 +1,30 @@
+[
+    {
+        "severity": "HIGH",
+        "library": "com.google.android.gms",
+        "version": "10.0.1",
+        "id": "CVE-2021-4352",
+        "desc": "B\u0142\u0105d weryfikacji certyfikatu"
+    },
+    {
+        "severity": "MEDIUM",
+        "library": "com.squareup.okhttp",
+        "version": "2.7.5",
+        "id": "CVE-2016-2402",
+        "desc": "Podatno\u015b\u0107 na Man-in-the-Middle"
+    },
+    {
+        "severity": "CRITICAL",
+        "library": "org.apache.commons",
+        "version": "1.0.0",
+        "id": "CVE-2015-7501",
+        "desc": "Zdalne wykonanie kodu (RCE)"
+    },
+    {
+        "severity": "LOW",
+        "library": "com.android.support",
+        "version": "25.0.0",
+        "id": "CVE-2019-1234",
+        "desc": "Wyciek informacji w logach"
+    }
+]
