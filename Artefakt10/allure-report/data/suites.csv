@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1","test_failed","","2026-06-12","failed","2026-06-12","","test_101_allure_init","",""
+"","1","test_hierarchy","","2026-06-12","passed","2026-06-12","","test_102_meta_reporting","",""
+"","4","test_failure_with_screenshot","","2026-06-12","failed","2026-06-12","","test_103_attachments","",""
+"","0","test_passed","","2026-06-12","passed","2026-06-12","","test_101_allure_init","",""
